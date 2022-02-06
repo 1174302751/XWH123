@@ -180,3 +180,5 @@ addEventListener(
     network: ws
     ws-path: /ray
 ```
+
+### From [DaoChen6](https://github.com/DaoChen6/Heroku-v2ray)
